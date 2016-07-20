@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1461762143 source:c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\main.cpp
+	<iostream>
+	"GrafoLista.h"
+
+1461757999 source:c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\pilhaencad.cpp
+	"PilhaEncad.h"
+
+1461758133 c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\pilhaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1461758133 c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\no.h
+
+1461762104 source:c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\grafolista.cpp
+	<iostream>
+	<cstdlib>
+	"GrafoLista.h"
+	"PilhaEncad.h"
+
+1461761007 c:\users\almei\google drive\getcomp\atividades\grafo direcionado - lista de incidência\grafolista.h
+	<iostream>
+	<cstdlib>
+
