@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1465216656 source:c:\users\almei\google drive\getcomp\atividades\matriz esparsa\celula.cpp
+	"celula.h"
+	<iostream>
+
+1465216055 c:\users\almei\google drive\getcomp\atividades\matriz esparsa\celula.h
+	<iostream>
+
+1465389762 source:c:\users\almei\google drive\getcomp\atividades\matriz esparsa\main.cpp
+	<iostream>
+	"matrizesparsa.h"
+
+1465390147 source:c:\users\almei\google drive\getcomp\atividades\matriz esparsa\matrizesparsa.cpp
+	<iostream>
+	"matrizesparsa.h"
+
+1465389016 c:\users\almei\google drive\getcomp\atividades\matriz esparsa\matrizesparsa.h
+	<iostream>
+	"ListaEncad.h"
+
+1465390021 source:c:\users\almei\google drive\getcomp\atividades\matriz esparsa\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1465390294 c:\users\almei\google drive\getcomp\atividades\matriz esparsa\listaencad.h
+	"No.h"
+
+1465388644 c:\users\almei\google drive\getcomp\atividades\matriz esparsa\no.h
+

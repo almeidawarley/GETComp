@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1461932034 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafo.h
+	<iostream>
+	<cstdlib>
+
+1461935018 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\listaencad.h
+	"No.h"
+
+1461936676 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\no.h
+
+1462364242 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\buscaemgrafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"Fila.h"
+	"Pilha.h"
+	"buscaEmGrafo.h"
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\buscaemgrafo.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462361562 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafomatriz.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"GrafoMatriz.h"
+
+1462218020 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafomatriz.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1461935880 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\listaencad.cpp
+	<iostream>
+	<stdlib.h>
+	"ListaEncad.h"
+
+1462220050 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\main.cpp
+	<iostream>
+	"Grafo.h"
+	"GrafoMatriz.h"
+	"GrafoLista.h"
+	"buscaEmGrafo.h"
+
+1461936676 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\filaencad.cpp
+	"FilaEncad.h"
+
+1461936676 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\filaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1461939314 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\pilhaencad.cpp
+	"PilhaEncad.h"
+
+1461939314 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\pilhaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafolista.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462361545 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\grafolista.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"GrafoLista.h"
+	"FilaEncad.h"
+
+1462219598 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\fila.h
+	<iostream>
+	<cstdlib>
+
+1462219655 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\fila.cpp
+	<iostream>
+	<cstdlib>
+	"Fila.h"
+
+1462364312 source:c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"Pilha.h"
+
+1462364179 c:\users\almei\google drive\getcomp\atividades\[29-04-2016]\grafo\pilha.h
+	<iostream>
+	<cstdlib>
+
+1462366201 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\buscaemgrafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"Fila.h"
+	"Pilha.h"
+	"buscaEmGrafo.h"
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafo.h
+	<iostream>
+	<cstdlib>
+
+1462219598 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\fila.h
+	<iostream>
+	<cstdlib>
+
+1462364179 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\pilha.h
+	<iostream>
+	<cstdlib>
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\buscaemgrafo.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462219655 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\fila.cpp
+	<iostream>
+	<cstdlib>
+	"Fila.h"
+
+1461936676 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\filaencad.cpp
+	"FilaEncad.h"
+
+1461936676 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\filaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1461936676 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\no.h
+
+1461932034 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462367569 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafolista.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"GrafoLista.h"
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafolista.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462361562 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafomatriz.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"GrafoMatriz.h"
+
+1462218020 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\grafomatriz.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462220050 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\main.cpp
+	<iostream>
+	"Grafo.h"
+	"GrafoMatriz.h"
+	"GrafoLista.h"
+	"buscaEmGrafo.h"
+
+1462364312 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"Pilha.h"
+
+1461939314 source:c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\pilhaencad.cpp
+	"PilhaEncad.h"
+
+1461939314 c:\users\almei\google drive\getcomp\atividades\[04-05-2016]\grafo\pilhaencad.h
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1462542829 source:c:\users\almei\google drive\getcomp\atividades\grafo\buscaemgrafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"Fila.h"
+	"Pilha.h"
+	"buscaEmGrafo.h"
+
+1464784442 c:\users\almei\google drive\getcomp\atividades\grafo\grafo.h
+	<iostream>
+	<cstdlib>
+
+1462219598 c:\users\almei\google drive\getcomp\atividades\grafo\fila.h
+	<iostream>
+	<cstdlib>
+
+1462364179 c:\users\almei\google drive\getcomp\atividades\grafo\pilha.h
+	<iostream>
+	<cstdlib>
+
+1462218855 c:\users\almei\google drive\getcomp\atividades\grafo\buscaemgrafo.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462219655 source:c:\users\almei\google drive\getcomp\atividades\grafo\fila.cpp
+	<iostream>
+	<cstdlib>
+	"Fila.h"
+
+1461932034 source:c:\users\almei\google drive\getcomp\atividades\grafo\grafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1464699759 source:c:\users\almei\google drive\getcomp\atividades\grafo\grafolista.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"GrafoLista.h"
+
+1464699730 c:\users\almei\google drive\getcomp\atividades\grafo\grafolista.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1464790843 source:c:\users\almei\google drive\getcomp\atividades\grafo\main.cpp
+	<iostream>
+	"Grafo.h"
+	"GrafoMatriz.h"
+	"GrafoLista.h"
+	"buscaEmGrafo.h"
+	"carregaGrafo.h"
+
+1464785334 c:\users\almei\google drive\getcomp\atividades\grafo\grafomatriz.h
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+
+1462364312 source:c:\users\almei\google drive\getcomp\atividades\grafo\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"Pilha.h"
+
+1464791033 source:c:\users\almei\google drive\getcomp\atividades\grafo\grafomatriz.cpp
+	<iostream>
+	<cstdlib>
+	<limits.h>
+	"Grafo.h"
+	"GrafoMatriz.h"
+	"Fila.h"
+
+1462891145 source:c:\users\almei\google drive\getcomp\atividades\grafo\carregagrafo.cpp
+	<iostream>
+	<cstdlib>
+	"Grafo.h"
+	"carregaGrafo.h"
+	<fstream>
+
+1462797702 c:\users\almei\google drive\getcomp\atividades\grafo\carregagrafo.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+
+1463573943 c:\users\almei\google drive\getcomp\atividades\grafo\caminhomaiscurto.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"grafo.h"
+
+1463573879 source:c:\users\almei\google drive\getcomp\atividades\grafo\dijkstra.cpp
+	<iostream>
+	<cstdlib>
+	"caminhoMaisCurto.h"
+	"Grafo.h"
+	"Dijkstra.h"
+
+1463573943 c:\users\almei\google drive\getcomp\atividades\grafo\dijkstra.h
+	<iostream>
+	<cstdlib>
+	"caminhoMaisCurto.h"
+
+1463573728 source:c:\users\almei\google drive\getcomp\atividades\grafo\fordbellman.cpp
+	<iostream>
+	<cstdlib>
+	"caminhoMaisCurto.h"
+	"Grafo.h"
+	"FordBellman.h"
+
+1463573966 c:\users\almei\google drive\getcomp\atividades\grafo\fordbellman.h
+	<iostream>
+	<cstdlib>
+	"caminhoMaisCurto.h"
+
+1464450841 c:\users\almei\google drive\getcomp\atividades\grafo\listacont.h
+
+1450051220 source:c:\users\almei\google drive\getcomp\atividades\grafo\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1464469801 c:\users\almei\google drive\getcomp\atividades\grafo\lista.h
+	<iostream>
+	<cstdlib>
+
+1464543920 source:c:\users\almei\google drive\getcomp\atividades\grafo\lista.cpp
+	<iostream>
+	<cstdlib>
+	"Lista.h"
+
