@@ -1,0 +1,17 @@
+﻿Build started 20/07/2016 12:56:28.
+     1>Project "C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\GETComp\GETComp.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GETComp (Cópia em conflito de DESKTOP-0SN3GOR 2016-07-13).vcxproj, GETComp (Cópia em conflito de Warley Almeida 2016-07-14).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\cplex\include" /I"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\concert\include" /nologo /W3 /WX- /sdl /Od /D NDEBUG /D _CONSOLE /D IL_STD /D _ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\GETComp.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\cplex\include" /I"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\concert\include" /nologo /W3 /WX- /sdl /Od /D NDEBUG /D _CONSOLE /D IL_STD /D _ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\GETComp.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GETComp.cpp
+         GETComp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\x64\Debug\GETComp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\cplex\lib\x64_windows_vs2013\stat_mda" /LIBPATH:"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\concert\lib\x64_windows_vs2013\stat_mda" cplex1263.lib ilocplex.lib concert.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\x64\Debug\GETComp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\x64\Debug\GETComp.lib" /MACHINE:X64 x64\Debug\GETComp.obj
+         x64\Debug\stdafx.obj
+         GETComp.vcxproj -> C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\x64\Debug\GETComp.exe
+     1>Done Building Project "C:\Users\Warley\Dropbox\GETComp\GETComp - Projeto VS\GETComp\GETComp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91

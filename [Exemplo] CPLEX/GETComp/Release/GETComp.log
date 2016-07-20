@@ -1,0 +1,11 @@
+﻿Build started 11/07/2016 15:27:19.
+     1>Project "C:\Users\GETComp001\Documents\GETComp\GETComp\GETComp.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\GETComp001\Documents\GETComp\Release\GETComp.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\cplex\lib\x64_windows_vs2013\stat_mda" /LIBPATH:"C:\Program Files\IBM\ILOG\CPLEX_Studio1263\concert\lib\x64_windows_vs2013\stat_mda" cplex1263.lib ilocplex.lib concert.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\GETComp001\Documents\GETComp\Release\GETComp.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\GETComp001\Documents\GETComp\Release\GETComp.lib" /MACHINE:X64 /SAFESEH Release\GETComp.obj
+         Release\stdafx.obj
+     1>Release\GETComp.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "C:\Users\GETComp001\Documents\GETComp\GETComp\GETComp.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.14
